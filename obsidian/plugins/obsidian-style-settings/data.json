@@ -1,0 +1,19 @@
+{
+  "sanctum@@topside-status-bar": false,
+  "sanctum@@light-mode-palette": "sanctum-light",
+  "sanctum@@dark-mode-palette": "sanctum-dark",
+  "sanctum@@color-accent-l": "64 150 147",
+  "sanctum@@heading-clr": true,
+  "sanctum@@heading-clr-bg": false,
+  "sanctum@@color-heading-1-d": "rgb(140, 141, 59)",
+  "sanctum@@color-heading-2-d": "rgb(70, 153, 106)",
+  "sanctum@@color-heading-3-d": "rgb(64, 150, 147)",
+  "sanctum@@color-heading-4-d": "rgb(102, 142, 165)",
+  "sanctum@@color-heading-5-d": "rgb(132, 132, 188)",
+  "sanctum@@color-heading-6-d": "rgb(235, 84, 108)",
+  "sanctum@@dim-panes": false,
+  "sanctum@@no-blur": false,
+  "sanctum@@no-sanctum-icons": false,
+  "sanctum@@edit-mode-tasks": false,
+  "sanctum@@square-checkbox": true
+}

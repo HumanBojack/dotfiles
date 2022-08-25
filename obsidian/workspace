@@ -1,0 +1,138 @@
+{
+  "main": {
+    "id": "e1341da9f7669f39",
+    "type": "split",
+    "children": [
+      {
+        "id": "8aaccfe05e75edb9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Random_things/Site perso.md",
+            "mode": "source",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c65f954b1243ea6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a2f7f7d59e1e91a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "534e9d774c18133d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "63651f4d5f90e2af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "site perso",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 228
+  },
+  "right": {
+    "id": "13797eeadd6ac64d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ab286aa0a925c98",
+        "type": "tabs",
+        "dimension": 54.95867768595043,
+        "children": [
+          {
+            "id": "42ed56285348bf30",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "9560a2526954ff65",
+        "type": "tabs",
+        "dimension": 45.04132231404957,
+        "children": [
+          {
+            "id": "01bef52f64354af2",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "594e43eb3b94a9dd",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "74dfaffad3ce0504",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Random_things/Site perso.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 263.5
+  },
+  "active": "8aaccfe05e75edb9",
+  "lastOpenFiles": [
+    "Random_things/Stardew.md",
+    "Random_things/Site perso.md",
+    "Daily notes/2022-08-22.md",
+    "Daily notes/2022-08-21.md",
+    "Random_things/Checklist strasbourg.md",
+    "Random_things/Objectifs vacances.md",
+    "Random_things/Différents types de polices.md",
+    "Poèmes/Poèmes_étudiés/Nikita Gill - 93 Percent Stardust.md",
+    "Random_things/Sac.md",
+    "Random_things/Idées projets code.md"
+  ]
+}

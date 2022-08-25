@@ -1,0 +1,36 @@
+{
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheckDictionary": [
+    "Collins",
+    "Collins",
+    "flow",
+    "Whitman",
+    "Bilbo",
+    "Gandalf",
+    "Bessac",
+    "Thorin",
+    "Smaug",
+    "Fendeval",
+    "Elrond",
+    "Fili",
+    "Kili",
+    "Gollum",
+    "Coleridge"
+  ],
+  "foldHeading": true,
+  "foldIndent": true,
+  "readableLineLength": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "attachmentFolderPath": "Random_things/Attachements",
+  "spellcheck": false,
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
+}
