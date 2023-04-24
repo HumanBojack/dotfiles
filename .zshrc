@@ -133,6 +133,13 @@ alias ipy="python3 -m IPython"
 alias py="python3"
 alias ds="conda activate datascience"
 
+# LSDeluxe
+alias ls="lsd"
+alias l="ls -l"
+alias la="ls -a"
+alias lla="ls -la"
+alias lt="ls --tree"
+
 # Autre
 alias cra="npx create-react-app" # Crée une app react
 alias authorize="sudo spctl --master-disable" # Désactive le gatekeeper
