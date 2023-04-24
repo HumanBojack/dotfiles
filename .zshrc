@@ -145,6 +145,7 @@ alias cra="npx create-react-app" # Crée une app react
 alias authorize="sudo spctl --master-disable" # Désactive le gatekeeper
 alias upxcode="xcode-select --install" # Réinstalle xcode
 alias unfilm="telnet towel.blinkenlights.nl"
+alias pv="bash --rcfile <(echo '. ~/.bashrc; unset HISTFILE')"
 
 
 # >>> conda initialize >>>
